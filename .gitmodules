@@ -1,0 +1,15 @@
+[submodule "Business-Inteligence"]
+	path = Business-Inteligence
+	url = https://github.com/rodolfo-mkr/MATLAB-Business-Inteligence.git
+[submodule "Cartoon-Filter"]
+	path = Cartoon-Filter
+	url = https://github.com/rodolfo-mkr/MATLAB-Cartoon-Filter.git
+[submodule "Data-Analytics"]
+	path = Data-Analytics
+	url = https://github.com/rodolfo-mkr/MATLAB-Data-Analytics.git
+[submodule "Digital-Signal-Processing"]
+	path = Digital-Signal-Processing
+	url = https://github.com/rodolfo-mkr/Matlab-Digital-Signal-Processing.git
+[submodule "Differential-Equations"]
+	path = Differential-Equations
+	url = https://github.com/rodolfo-mkr/Matlab-Differential-Equations.git
